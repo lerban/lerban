@@ -46,7 +46,7 @@ weight = 1
 
 # Biography
 
-I study interactions between people and water resources. My research has focused largely on groundwater: natural and manmade contamination, transboundary overdraft, pumping-induced land subsidence. These are wicked problems, brought about by complex interactions among social and environmental systems. I believe new modes of systemic thought and practice are needed to address themm- the old modes that got us here won’t suffice.  
+I study interactions between people and water resources. My research has focused largely on groundwater: natural and manmade contamination, transboundary overdraft, pumping-induced land subsidence. These are wicked problems, brought about by complex interactions among social and environmental systems. I believe new modes of systemic thought and practice are needed to address them. The old modes that got us here won’t suffice.  
 
 I have deep technical skills in earth data science and extensive (thematic and geographic) experience. For more details {{% staticref "files/cv.pdf" "newtab" %}}download my CV.{{% /staticref %}}
 
