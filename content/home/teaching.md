@@ -17,14 +17,14 @@ weight = 60
 
 College and graduate-level:
 
-- Humans and Their Environment Lab (BIO 140L): _Salve Regina University_, Newport, RI
-- Human's Dependence on Earth's Mineral Resources (ENSC 2400): _Cal State East Bay_, Hayward, CA, co-taught module and participated in 2-day **teacher training** through NSF-sponsored [InTeGrate](https://serc.carleton.edu/integrate/index.html) program.
-- Physical Hydrogeology (EESS 220 / CEE 260A): _Stanford University_, Stanford, CA, teaching assistant (2 quarters) and guest lecturer
-- Contaminant Hydrogeology (EESS 221 / CEE 260C): _Stanford University_, Stanford, CA, teaching assistant (2 quarters)
+- __Humans and Their Environment Lab__ (BIO 140L): _Salve Regina University_, Newport, RI
+- __Human's Dependence on Earth's Mineral Resources__ (module of ENSC 2400): _Cal State East Bay_, Hayward, CA, co-taught 3-week module and participated in 2-day **teacher training** through NSF-sponsored [InTeGrate](https://serc.carleton.edu/integrate/index.html) program.
+- __Physical Hydrogeology__ (EESS 220 / CEE 260A): _Stanford University_, Stanford, CA, teaching assistant (2 quarters) and guest lecturer
+- __Contaminant Hydrogeology__ (EESS 221 / CEE 260C): _Stanford University_, Stanford, CA, teaching assistant (2 quarters)
 
 High school:
 
-- AP Environmental Sciences: _Yerba Buena High School_, San Jose, CA, weekly volunteer instructor for academic year 2010-2011
+- __AP Environmental Sciences__: _Yerba Buena High School_, San Jose, CA, weekly volunteer instructor for academic year 2010-2011
 
 
 
