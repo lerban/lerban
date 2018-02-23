@@ -37,7 +37,7 @@ selected = true
 # Links (optional).
 #url_pdf = ""
 #url_preprint = "#"
-#url_code = "#"
+url_code = "https://github.com/lerban/CityWaterBalance"
 #url_dataset = "#"
 #url_project = "#"
 #url_slides = "#"

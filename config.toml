@@ -100,9 +100,9 @@ defaultContentLanguageInSubdir = false
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "Feb 18, 2018"
+  date_format = "Jan 2, 2006"
   #   Examples: "3:04 pm" or "15:04"
-  time_format = "3:04 PM"
+  time_format = "3:04 pm"
 
   # Show estimated reading time for posts?
   reading_time = true
@@ -176,7 +176,7 @@ defaultContentLanguageInSubdir = false
   # Configuration of talk pages.
   [params.talks]
     # Show talk time?
-    time = true
+    time = false
 
   # Configuration of publication pages.
   [params.publications]
@@ -256,6 +256,11 @@ defaultContentLanguageInSubdir = false
   name = "Teaching"
   url = "#teaching"
   weight = 3
+  
+[[menu.main]]
+  name = "Talks"
+  url = "#talks"
+  weight = 4
 
 # Taxonomies.
 [taxonomies]
