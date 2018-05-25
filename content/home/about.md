@@ -23,6 +23,11 @@ weight = 1
   year = 2014
 
 [[education.courses]]
+  course = "d.school | Design for Science"
+  institution = "Stanford University"
+  year = 2013
+
+[[education.courses]]
   course = "MS | Civil & Environmental Engineering"
   institution = "Stanford University"
   year = 2012
@@ -33,11 +38,6 @@ weight = 1
   year = 2006
 
  [[education.courses]]
-  course = "Hasso Plattner Institute for Design (d.school)"
-  institution = "Stanford University"
-  year = 2013
- 
- [[education.courses]]
   course = "Semester in Central America"
   institution = "Augsburg College"
   year = 2005
@@ -46,7 +46,7 @@ weight = 1
 
 # About me
 
-My mission is to improve relationships between people and water resources. Past work has focused on groundwater: natural and manmade contamination, transboundary overdraft, and pumping-induced land subsidence. These days I'm thinking a lot about resilient redesigns for water in cities. These are wicked problems, or more precisely, emergent properties of complex socio-environmental systems. I believe new modes of systemic thought and practice are needed to address them. The old modes that got us here won’t suffice.  
+My mission is to help people use water sustainably. Past work has focused on groundwater: natural and manmade contamination, transboundary overdraft, and pumping-induced land subsidence. These days I'm thinking a lot about integrated water management in cities. These are wicked problems, emerging from complex socio-environmental systems. I believe new modes of systemic thought and practice are needed to address them.  
 
 I have deep technical skills in earth data science and extensive (thematic and geographic) experience. For more details {{% staticref "files/cv.pdf" "newtab" %}}download my CV.{{% /staticref %}}
 
