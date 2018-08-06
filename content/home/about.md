@@ -46,7 +46,7 @@ weight = 1
 
 # About me
 
-My mission is to help people use water sustainably. Past work has focused on groundwater: natural and manmade contamination, transboundary overdraft, and pumping-induced land subsidence. These days I'm thinking a lot about integrated water management in cities. These are wicked problems, emerging from complex socio-environmental systems. I believe new modes of systemic thought and practice are needed to address them.  
+My mission is to help people use water resources sustainably. Recent work has focused on groundwater: natural and manmade contamination, transboundary overdraft, and pumping-induced land subsidence. These are wicked problems, emerging from complex socio-environmental systems. I believe new modes of systemic thought and practice are needed to address them.  
 
 I have deep technical skills in earth data science and extensive (thematic and geographic) experience. For more details {{% staticref "files/cv.pdf" "newtab" %}}download my CV.{{% /staticref %}}
 
