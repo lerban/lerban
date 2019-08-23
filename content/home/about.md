@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = "2018-02-18T00:00:00"
+date = "2019-08-23T00:00:00"
 
 # Order that this section will appear in.
 weight = 1
@@ -46,7 +46,7 @@ weight = 1
 
 # About me
 
-My mission is to help people use water resources sustainably. Recent work has focused on groundwater: natural and manmade contamination, transboundary overdraft, and pumping-induced land subsidence. These are wicked problems, emerging from complex socio-environmental systems. I believe new modes of systemic thought and practice are needed to address them.  
+My mission is to help people use water resources sustainably. Recent work has focused on natural and manmade groundwater contamination, pumping-induced land subsidence, renewal of degraded watersheds and aging urban water systems. These are wicked problems, emerging from complex socio-environmental systems. I believe new modes of systemic thought and practice are needed to address them.  
 
 I have deep technical skills in earth data science and extensive (thematic and geographic) experience. For more details {{% staticref "files/cv.pdf" "newtab" %}}download my CV.{{% /staticref %}}
 
